@@ -18,3 +18,6 @@ git add file.name/  . for all files
 git commit -m "message"
 
 <!-- local to remote (all files should be commited) -->
+git branch -M main
+git remote add origin "git uri"
+git push -u origin main
