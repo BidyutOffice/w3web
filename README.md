@@ -10,3 +10,11 @@ commit -> modify -> add -> commit
 
 <!-- git init -->
 git init
+git add file.name/  . for all files
+git commit -m "message"
+
+<!-- if changes -->
+git add file.name/  . for all files
+git commit -m "message"
+
+<!-- local to remote (all files should be commited) -->
